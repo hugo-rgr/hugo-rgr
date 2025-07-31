@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=hugo-rgr)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-rgr&layout=compact&langs_count=6&hide=gherkin,rust)
+-->
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugo-rgr)](https://github.com/anuraghazra/github-readme-stats)
